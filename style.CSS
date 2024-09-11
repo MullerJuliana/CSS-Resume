@@ -1,0 +1,113 @@
+.base{
+    height: 1156px;
+    width: 860px;
+    border: 1px solid #cacaca; 
+    background-color: #ffffff; 
+    box-shadow: rgb(192, 190, 202) 1px 1px 2px;
+    margin: auto;
+}
+
+.list-div{
+    width: 70%;
+}
+
+.space{
+    position: relative; left: 140px;
+    position: relative; top: 35px;
+}
+
+.inf{
+    color: #E91D63;
+    font-family: "Oswald", sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+}
+
+.ttl{
+    color: #424242;
+    font-size: 32px;
+    font-family: "Oswald";
+    font-weight: 400;
+}
+
+.line{
+    border: 2.6px solid #424242; 
+    width: 585px;
+    position: relative; right: 135px;
+    position: relative; bottom: 15px;
+}  
+
+.subttl{
+    color: #424242;
+    font-family: "Oswald", sans-serif;
+    font-weight: 420;
+    font-size: 16px;
+    /* margin-top: 35px;
+    margin-bottom: 40px; */
+}
+
+.bp{
+    display: flex;
+    /* justify-content: center; */
+    gap: 100px;
+    /* border: 1px solid rgb(4, 2, 0); */
+}
+
+.Red{
+    color: #E91D63;
+    font-family: "Source Code Pro", monospace; 
+    font-weight: 800;
+}
+
+.ex {
+    display: inline-block;
+    /* border: 1px solid pink; */
+}
+
+.txt{
+    font-family: "Source Code Pro", monospace; 
+    color: #666666;
+    font-size: 12px; 
+    /* margin-right: 230px; */
+}
+
+.ls{
+    display: inline-block;
+    /* border: 1px solid pink; */
+}
+
+.job{
+    font-family: "Source Code Pro", monospace; 
+    font-size: 16px;  
+    color: #2E4440; 
+    font-style: italic;
+}
+
+.mrg{
+    position: relative;bottom: 18px;
+    /* border: 1px solid darkcyan; */
+}
+
+.Certificate{
+    position: relative;bottom: 30px;
+}
+
+.date{
+    position: relative;bottom: 45px;
+}
+
+.ED{
+    position: relative;top: 130px;
+}
+
+.levi{
+    position: relative;bottom: 20px;
+}
+
+.SVCTE{
+    position: relative;bottom: 20px;
+}
+
+.AWARDS{
+    position: relative;bottom: 60px;
+}
